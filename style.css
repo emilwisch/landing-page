@@ -47,6 +47,13 @@
   }
 
   /* Begin Styles */
+  body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+  }
+  
   .logo img {
     -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
             filter: invert(100%);
