@@ -56,11 +56,14 @@
     background-color: #1f2937;
   }
 
-  .header-link,
+  .header .link,
   .hero-subtext {
     color: #e5e7eb;
   }
 
   .hero-text {
     color: #f9faf8;
+  }
+  .hero-button {
+    background-color: #3882f6
   }
